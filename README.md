@@ -54,6 +54,7 @@
 39. Save changes with COMMIT
 40. Undo mistakes with ROLLBACK
 
+# Summary Of What I can Help With
 41. Database building
 42. Query writing and optimization
 43. Data cleaning and formatting
