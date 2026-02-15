@@ -1,205 +1,63 @@
-# SQL-Server-SSMS-Database-Skills-and-Services-I-Offer
-
-CREATE DATABASE to start a new project
-
-DROP DATABASE to safely remove databases when needed
-
-USE DatabaseName to switch between datasets
-
-This is essential for organizing data into professional database environments.
-
-📋 Table Creation and Professional Data Design
-
-I design and build tables for systems such as:
-
-Employees
-
-Customers
-
-Orders
-
-Products
-
-Inventory tracking
-
-I create tables with correct column types and real-world structure.
-
-🔧 Altering Tables and Fixing Column Data Types
-
-I can modify tables after creation using:
-
-ALTER TABLE to update structures
-
-Changing column types (example: converting prices into FLOAT values)
-
-Example skills:
-
-Converting price/spending columns into numeric formats for calculations
-
-Ensuring data types match business requirements
-
-This helps prevent errors and improves performance in real projects.
-
-🔒 Constraints and Data Validation
-
-I apply SQL constraints to protect data quality:
-
-PRIMARY KEY for unique row identification
-
-FOREIGN KEY for linking tables together
-
-UNIQUE to prevent duplicate entries
-
-NOT NULL to require important fields
-
-CHECK for rule enforcement (ex: age ≥ 18)
-
-DEFAULT values for automatic data filling
-
-This ensures clean and reliable databases.
-
-✏️ Data Insertion, Updating, and Deletion
-
-I manage table records using:
-
-INSERT INTO to add new data
-
-UPDATE to edit existing records
-
-DELETE to remove specific rows
-
-TRUNCATE to clear data while keeping the table
-
-Perfect for maintaining accurate datasets.
-
-🔍 Advanced Query Writing and Filtering
-
-I write SQL queries to retrieve specific information using:
-
-SELECT statements
-
-Filters with WHERE, AND, OR, NOT
-
-Removing duplicates with DISTINCT
-
-This allows fast and accurate data searching.
-
-📊 Sorting and Limiting Results
-
-I can organize query outputs using:
-
-ORDER BY for sorting
-
-TOP for returning limited rows
-
-Useful for reports and dashboards.
-
-🔗 JOIN Operations and Relational Database Linking
-
-I work with multiple-table relationships using:
-
-INNER JOIN
-
-LEFT JOIN
-
-RIGHT JOIN
-
-FULL OUTER JOIN
-
-SELF JOIN
-
-This allows combining customer, order, and product information into one result.
-
-🔄 Combining Results with UNION
-
-I merge results from different queries using:
-
-UNION (removes duplicates)
-
-UNION ALL (keeps duplicates)
-
-Useful for multi-source reporting.
-
-🧼 Data Cleaning and Text Formatting
-
-I clean messy customer input using advanced string functions:
-
-TRIM() to remove extra spaces
-
-UPPER() to standardize coupon codes
-
-LOWER() to normalize text for reports
-
-LEFT() to limit customer ID length
-
-SUBSTRING() to extract product category codes
-
-CONCAT() to build shipping labels
-
-This makes datasets consistent and professional.
-
-🚫 NULL Handling and Preventing Errors
-
-I handle missing or broken values using:
-
-ISNULL() to replace NULL values with 0
-
-COALESCE() to provide backup values
-
-NULLIF() to prevent divide-by-zero crashes
-
-These techniques are critical in real-world analytics.
-
-🧮 Calculations and Data Conversion
-
-I can perform numeric transformations such as:
-
-CAST() to convert data types
-
-Creating average paid price calculations safely
-
-Converting decimals into integers when needed
-
-This is important for financial and transaction datasets.
-
-⏱️ Time Functions and Order Tracking
-
-I work with date/time SQL tools including:
-
-GETDATE() for current timestamps
-
-DATEDIFF() to calculate how long ago an order happened
-
-Useful for transaction history and business reports.
-
-🔍 Checking Table Metadata and Column Types
-
-I can inspect database structure using:
-
-INFORMATION_SCHEMA.COLUMNS
-
-This helps verify column names, types, and schema correctness.
-
-🔐 Transaction Control and Safety
-
-I understand transaction handling for safe database updates:
-
-BEGIN TRANSACTION
-
-COMMIT to save changes
-
-ROLLBACK to undo mistakes
-
-This prevents accidental data loss in production systems.
-
-⭐ Summary: What I Can Help With
-
-I can help you with:
-
-✅ Database building
-✅ Query writing and optimization
-✅ Data cleaning and formatting
-✅ Reporting-friendly SQL outputs
-✅ Customer/order system databases
-✅ Preventing SQL errors and crashes
-✅ Real-world structured datasets
+# What I can Offer In SQL Server Mangement Studio
+1. CREATE DATABASE → start a new project
+2. DROP DATABASE → safely remove databases
+3. USE DatabaseName → switch between datasets
+
+4. Design tables for Employees, Customers, Orders, Products, Inventory
+5. Create tables with correct column types and real-world structure
+
+6. Modify table structures using ALTER TABLE
+7. Convert columns into correct numeric formats like FLOAT
+8. Ensure data types match business requirements
+
+9. Apply constraints for data quality (PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL, CHECK, DEFAULT)
+
+10. Add new records using INSERT INTO
+11. Edit records using UPDATE
+12. Remove rows using DELETE
+13. Clear table data using TRUNCATE
+
+14. Retrieve data using SELECT
+15. Filter results with WHERE, AND, OR, NOT
+16. Remove duplicates using DISTINCT
+
+17. Sort outputs using ORDER BY
+18. Limit rows using TOP
+
+19. Combine tables using INNER JOIN
+20. Include unmatched rows with LEFT JOIN
+21. Use RIGHT JOIN for opposite matching
+22. Merge all rows with FULL OUTER JOIN
+23. Join table with itself using SELF JOIN
+
+24. Merge query outputs using UNION
+25. Keep duplicates using UNION ALL
+
+26. Remove spaces using TRIM()
+27. Standardize text with UPPER() and LOWER()
+28. Extract values with LEFT() and SUBSTRING()
+29. Build labels using CONCAT()
+
+30. Replace NULL values using ISNULL()
+31. Use backup values with COALESCE()
+32. Prevent divide errors using NULLIF()
+
+33. Convert data types using CAST()
+34. Perform safe numeric calculations for financial data
+
+35. Get current timestamp using GETDATE()
+36. Calculate date differences using DATEDIFF()
+
+37. Inspect schema with INFORMATION_SCHEMA.COLUMNS
+
+38. Start safe updates with BEGIN TRANSACTION
+39. Save changes with COMMIT
+40. Undo mistakes with ROLLBACK
+
+41. Database building
+42. Query writing and optimization
+43. Data cleaning and formatting
+44. Reporting-friendly SQL outputs
+45. Customer/order system databases
+46. Preventing SQL errors and crashes
+47. Real-world structured datasets
